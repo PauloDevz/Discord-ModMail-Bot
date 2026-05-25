@@ -1,0 +1,2 @@
+EMBED_COLOR = 0x7c00ff
+BOT_NAME = "ModMail"
