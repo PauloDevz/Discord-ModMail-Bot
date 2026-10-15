@@ -10,7 +10,7 @@ intents.dm_messages = True
 class ModMailBot(commands.Bot):
     def __init__(self):
         super().__init__(
-            command_prefix="Hosta",
+            command_prefix="M",
             intents=intents
         )
         self.db = Database()
